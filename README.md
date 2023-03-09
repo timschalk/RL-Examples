@@ -1,5 +1,9 @@
 # Reinforcement Learning Tutorials:
 
+Works with python3.8
+
+    sudo apt install python3.8 python3.8-dev python3.8-distutils
+
 *2020-10-07 added support for Tensorflow 2.3.1*
 
 PPO and PPO_CNN agents playing Pong-v0 game:<br>
